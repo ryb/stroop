@@ -1,0 +1,1 @@
+A simple demonstration of the [Stroop effect](http://en.wikipedia.org/wiki/Stroop_effect "Stroop effect - Wikipedia, the free encyclopedia"). Tested on Mac OS X and the [GP2X](http://en.wikipedia.org/wiki/GP2X "GP2X - Wikipedia, the free encyclopedia").
