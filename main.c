@@ -2,7 +2,6 @@
    main.c
    Stroop: A game based on the stroop effect
    
-   Created by Ryan Burton on 2008-10-06.
 */
 
 #include <stdio.h>
